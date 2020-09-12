@@ -31,11 +31,6 @@ const NearByStackScreen = ({navigation}) => (
   </NearByStack.Navigator>
 );
 
-/*const ResultsShowScreen = ({navigation}) => (
-  <ResultsShow.Navigator>
-    <ResultsShowStack.Screen name="ResultsShown" component={ResultsShowScreen} />
-  </ResultsShow.Navigator>
-);*/
 
 
 
